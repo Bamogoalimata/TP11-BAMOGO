@@ -8,7 +8,34 @@
 }
 .ab{
     display: flex;
+    width: 1300px;
+    padding: 120px;
+    background: blanchedalmond;
+    justify-content: center;
 }
-.ac{
-    
+.ac h1{
+    padding: 5px,10px;
+    border: 1px solid; 
+    height: 30px;
+    text-align: center;
+    color: rgb(223, 174, 155)
+}
+.ad {
+    margin-left: 100px;
+}
+.ae{ 
+    padding: 40px;
+    margin-left: 160px;
+
+}
+.Forward{
+    color: rgb(187, 80, 120);
+    background-color: rgb(234, 206, 212);
+}
+.bamos{
+    height: 30px;
+    text-align: center;
+}
+.bamo{
+    padding-left: 20px;
 }
